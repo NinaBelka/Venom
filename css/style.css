@@ -311,6 +311,7 @@ img {
     -moz-transition: transform 0.2s;
     -ms-transition: transform 0.2s;
     -o-transition: transform 0.2s;
+    opacity: 0;
   }
 
   .nav-menu-item {
